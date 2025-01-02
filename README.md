@@ -1,4 +1,4 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="48" style="margin-bottom: 1px"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/party-blob.gif?1536351075" width="48" style="margin-bottom: 1px"/>
 
 # Hi, I'm Akriti Sood ☺️
 
