@@ -24,7 +24,7 @@
 
 ### Work & Social
 
-</a> <a href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" /></a>
+</a> <a href="https://www.linkedin.com/in/akriti-sood-545a85175" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" /></a>
 
 
 
