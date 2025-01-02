@@ -2,7 +2,7 @@
 
 # Hi, I'm Akriti Sood ☺️
 
-## I'm a UI Developer with 4+ years of experience, currently working at [Thoughtworks Technologies](https://www.thoughtworks.com/en-in) 💼
+## UI Developer with 4+ Years of Experience | Currently Working at [Thoughtworks Technologies](https://www.thoughtworks.com/en-in) 🥳🥳
 
 <!-- <div style="text-align:center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="height:100px;width:100px;"/></div> -->
