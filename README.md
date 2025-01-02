@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akriti Sood</h1>
-<h3 align="center">I’m a UI Developer with 4+ years of experience, currently working at ThoughtWorks:)</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1>Hi 👋, I'm Akriti Sood</h1>
+<h3>I’m a UI Developer with 4+ years of experience, currently working at ThoughtWorks:)</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
