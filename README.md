@@ -9,10 +9,6 @@
 
 ### Tech stack:
 <p>
-<p>
-  <!-- HTML, CSS, JavaScript, TypeScript -->
-  <div style="dislay:flex;flex-direction:column;gap:8px">
-    
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -23,15 +19,7 @@
     <img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-FF6A00?style=flat&logo=react&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SharePoint_Logo.svg/800px-SharePoint_Logo.svg.png" alt="SharePoint" width="30" height="30"/>
   </div>
-
-  <!-- Backend and Database (Node) -->
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
-  </div>
-</p>
-
 </p>
 
 ### Work & Social
